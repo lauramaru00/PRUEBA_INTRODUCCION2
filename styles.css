@@ -23,18 +23,19 @@ table {
 }
 /*columnas*/
 th, td {
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
+    border-radius: 12px; /* esquinas redondeadas */
     padding: 10px;
     text-align: center;
 }
 /*encabezado tabla*/
 th {
     background-color: #cb7dff;
-    color: white;
+    color: #ffffff;
 }
 /*color casillas*/
 tr:nth-child(even) {
-    background-color: #f2d9fe;
+    background-color: #ffd1ff;
 }
 /*color sombreado del mouse*/
 tr:hover {
