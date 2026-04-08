@@ -7,7 +7,6 @@ Este proyecto consiste en la creación de una tabla en una página web, con el o
 - CSS
 - Live Server
 - Diseño con paleta de colores personalizada
-- ChatGPT (se usó para redactar)
 
 ## Autores
 - Loraine Castro
