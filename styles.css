@@ -1,17 +1,17 @@
 body {
     font-family: Courier New;
-    background-color: #c4e2ff;
+    background-color: #c4c8ff;
     margin: 0;
-    padding: 20px;
-    color: #333;
+    padding: 50px;
+    color: #0f0f0f;
     text-align: center;
 }
 /* Titulo Principal*/
 h1 {
     text-align: center;
-    color: #333;
+    color: #0c0c0c;
     font-size: 2em;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 table {
@@ -20,22 +20,22 @@ table {
     border-collapse: collapse;
     background-color: white;
 }
-
+/*columnas*/
 th, td {
     border: 1px solid #ccc;
     padding: 10px;
     text-align: center;
 }
-
+/*encabezado tabla*/
 th {
     background-color: #96c6fa;
     color: white;
 }
-
+/*color casillas*/
 tr:nth-child(even) {
     background-color: #f2f2f2;
 }
-
+/*color sombreado del mouse*/
 tr:hover {
-    background-color: #ddd;
+    background-color: #8eb2f3;
 }
