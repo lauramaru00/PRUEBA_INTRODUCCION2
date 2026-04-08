@@ -1,6 +1,6 @@
 body {
-    font-family: Courier New;
-    background-color: #c4c8ff;
+    font-family:  Helvetica;
+    background-color: #9496b5;
     margin: 0;
     padding: 50px;
     color: #0f0f0f;
@@ -9,9 +9,10 @@ body {
 /* Titulo Principal*/
 h1 {
     text-align: center;
-    color: #0c0c0c;
+    color: #040303;
     font-size: 2em;
     margin-bottom: 20px;
+    font-family: "Times New Roman";
 }
 
 table {
@@ -28,14 +29,14 @@ th, td {
 }
 /*encabezado tabla*/
 th {
-    background-color: #96c6fa;
+    background-color: #fbcbe2;
     color: white;
 }
 /*color casillas*/
 tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #dfc1c1;
 }
 /*color sombreado del mouse*/
 tr:hover {
-    background-color: #8eb2f3;
+    background-color: #f2d9fe;
 }
