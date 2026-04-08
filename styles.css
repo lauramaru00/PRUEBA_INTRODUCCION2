@@ -1,5 +1,5 @@
 body {
-    font-family:  Helvetica;
+    font-family:  Tahoma, Verdana, sans-serif;
     background-color: #e4e5fa;
     margin: 0;
     padding: 50px;
@@ -31,8 +31,8 @@ th, td {
 }
 /*encabezado tabla*/
 th {
-    background-color: #cb7dff;
-    color: #ffffff;
+    background-color: #dcbef0;
+    color: #080101;
 }
 /*color casillas*/
 tr:nth-child(even) {
@@ -41,4 +41,4 @@ tr:nth-child(even) {
 /*color sombreado del mouse*/
 tr:hover {
     background-color: #b8afb2;
-}
+    }
